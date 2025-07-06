@@ -16,3 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nn7had&show_icons=true&locale=en" alt="nn7had" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nn7had&" alt="nn7had" /></p>
+
+
+
+![snake gif](https://github.com/nn7had/nn7had/blob/output/github-contribution-grid-snake.gif)
