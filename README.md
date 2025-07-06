@@ -18,5 +18,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nn7had&" alt="nn7had" /></p>
 
 
-
-![snake gif](https://github.com/nn7had/nn7had/blob/output/github-contribution-grid-snake.gif)
